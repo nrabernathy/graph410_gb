@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget xmlns = "http://www.w3.org/ns/widgets" 
-   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.gillianbiernat.mobileapp" version = "1.0">
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.graph410.comxa" version = "1.0">
    
    <name>Gillian Biernat</name>
    
@@ -15,25 +15,25 @@
    
    <preference name = "permissions" value = "none"/>
    
-   <icon src = "Design for Mobile Apps/Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
+   <icon src = "Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-   <icon src = "Design for Mobile Apps/Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
+   <icon src = "Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-  <icon src = "Design for Mobile Apps/Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
+  <icon src = "Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-   <icon src = "Design for Mobile Apps/Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
+   <icon src = "Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-  <icon src = "Design for Mobile Apps/Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
+  <icon src = "Bee_Hero/android/drawable-ldpi/ic_launcher_Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
    
-   <icon src = "Design for Mobile Apps/Bee_Hero/ios/Icon-72.png" gap:platform = "ios" gap:qualifier = ""/>
-   <icon src = "Design for Mobile Apps/Bee_Hero/ios/Icon-Small-50.png" gap:platform = "ios" width = "57" height = "57" />
-   <icon src = "Design for Mobile Apps/Bee_Hero/ios/icon-72.png" gap:platform = "ios" width = "72" height = "72" />
-   <icon src = "Design for Mobile Apps/Bee_Hero/ios/Icon-Small-50.png" gap:platform = "ios" width = "114" height = "114" />
-   <icon src = "Design for Mobile Apps/Bee_Hero/ios/icon-72-2x.png" gap:platform = "ios" width = "144" height = "144" />
+   <icon src = "Bee_Hero/ios/Icon-72.png" gap:platform = "ios" gap:qualifier = ""/>
+   <icon src = "Bee_Hero/ios/Icon-Small-50.png" gap:platform = "ios" width = "50" height = "50" />
+   <icon src = "Bee_Hero/ios/icon-72.png" gap:platform = "ios" width = "72" height = "72" />
+   <icon src = "Bee_Hero/ios/Icon-Small-50.png" gap:platform = "ios" width = "50" height = "50" />
+   <icon src = "Bee_Hero/ios/icon-72-2x.png" gap:platform = "ios" width = "144" height = "144" />
    
 </widget>

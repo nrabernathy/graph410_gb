@@ -20,8 +20,7 @@
 		margin: 0 auto !important;
 		position: relative !important;}
 	}
-	
-	
+
 
 h1 { font-family: 'Ribeye', cursive; font-size: 100px; text-align: center; }
 h2 { font-family: 'Ribeye', cursive; font-size: 36px; text-align: center;}
@@ -39,7 +38,7 @@ p.dashed {border: 5px dashed #663300; padding: 20px; }
 .homecenter {
 	    margin: auto;
 	    padding: 5px 10px;
-	    width: 250px; }
+	    width: 360px; }
 
 $(document).on("scrollstart",function(){
   alert("Started scrolling!");
