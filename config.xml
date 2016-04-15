@@ -15,19 +15,19 @@
    
    <preference name = "permissions" value = "none"/>
    
-   <icon src = "Bee_Hero/android/ldpi/Bee_Hero-36.png" 
+   <icon src = "Bee_Hero/android/ldpi/Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-   <icon src = "Bee_Hero/android/mdpi/Bee_Hero-48.png" 
+   <icon src = "Bee_Hero/android/mdpi/Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "mdpi" />
 		
-  <icon src = "Bee_Hero/android/hdpi/Bee_Hero-72.png" 
+  <icon src = "Bee_Hero/android/hdpi/Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "hdpi" />
 		
-   <icon src = "Bee_Hero/android/xhdpi/Bee_Hero-96.png" 
+   <icon src = "Bee_Hero/android/xhdpi/Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "xhdpi" />
 		
-  <icon src = "Bee_Hero/android/xxhdpi/Bee_Hero-144.png" 
+  <icon src = "Bee_Hero/android/xxhdpi/Bee_Hero.png" 
       gap:platform = "android" gap:qualifier = "xxhdpi" />
    
    <icon src = "Bee_Hero/ios/Icon-72.png" gap:platform = "ios" gap:qualifier = ""/>
