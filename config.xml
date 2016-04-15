@@ -18,17 +18,17 @@
    <icon src = "Bee_Hero/android/ldpi/Bee_Hero-36.png" 
       gap:platform = "android" gap:qualifier = "ldpi" />
 		
-   <icon src = "Bee_Hero/android/mdpi/Bee_Hero-40.png" 
-      gap:platform = "android" gap:qualifier = "ldpi" />
+   <icon src = "Bee_Hero/android/mdpi/Bee_Hero-48.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
 		
-  <icon src = "Bee_Hero/android/hdpi/Bee_Hero-57.png" 
-      gap:platform = "android" gap:qualifier = "ldpi" />
+  <icon src = "Bee_Hero/android/hdpi/Bee_Hero-72.png" 
+      gap:platform = "android" gap:qualifier = "hdpi" />
 		
-   <icon src = "Bee_Hero/android/xhdpi/Bee_Hero-72.png" 
-      gap:platform = "android" gap:qualifier = "ldpi" />
+   <icon src = "Bee_Hero/android/xhdpi/Bee_Hero-96.png" 
+      gap:platform = "android" gap:qualifier = "xhdpi" />
 		
-  <icon src = "Bee_Hero/android/xxhdpi/Bee_Hero-114.png" 
-      gap:platform = "android" gap:qualifier = "ldpi" />
+  <icon src = "Bee_Hero/android/xxhdpi/Bee_Hero-144.png" 
+      gap:platform = "android" gap:qualifier = "xxhdpi" />
    
    <icon src = "Bee_Hero/ios/Icon-72.png" gap:platform = "ios" gap:qualifier = ""/>
    <icon src = "Bee_Hero/ios/Icon-Small-50.png" gap:platform = "ios" width = "50" height = "50" />
